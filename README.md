@@ -11,8 +11,8 @@ You'll also find a collection of my mini projects on my portfolio site, each a t
 <br>
 Let's collaborate, innovate, and make magic happen!
 <br><br>
-<p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=LazuardiMahendra&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count8&count_private=true" alt="LazuardiMahendra" /></p>
-<p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=LazuardiMahendra&show_icons=true&theme=tokyonight&locale=en" alt="LazuardiMahendra" /></p>
+<p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikosl19&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count8&count_private=true" alt="Riko" /></p>
+<p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=rikosl19&show_icons=true&theme=tokyonight&locale=en" alt="Riko" /></p>
 
 <br>
 
