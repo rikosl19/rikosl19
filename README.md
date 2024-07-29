@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1>Hi, I'm Riko 👋</h1>
 
-<!--
-**rikosl19/rikosl19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LazuardiMahendra&label=Profile%20views&color=0e75b6&style=flat-square" alt="LazuardiMahendra" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+. . .
+<p>Hi there! I'm a tech enthusiast who loves exploring new technologies</p>
+My primary focus is mobile development, particularly Android, where I work extensively with Kotlin. However, I'm always open to learning and working with other programming languages. Let's innovate together! 
+
+You'll also find a collection of my mini projects on my portfolio site, each a testament to my passion for coding creativity!
+<br>
+Let's collaborate, innovate, and make magic happen!
+<br><br>
+<p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=LazuardiMahendra&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count8&count_private=true" alt="LazuardiMahendra" /></p>
+<p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=LazuardiMahendra&show_icons=true&theme=tokyonight&locale=en" alt="LazuardiMahendra" /></p>
+
+<br>
+
+## Hackerrank Profile
+![HackerRank Rank](https://img.shields.io/badge/HackerRank-Rank-blue?style=for-the-badge&logo=hackerrank)
+<p>Check out my HackerRank profile <a href="https://www.hackerrank.com/LazuardiMahendra">here</a> for more details on my coding skills and achievements.</p>
+
+<br>
+
+## Medium Profile
+
+[![Medium](https://img.shields.io/badge/Medium-Follow-02b875?style=for-the-badge&logo=medium)](https://medium.com/@LazuardiMahendra)
+ <br><br>
+
+
+## Technologies I Use
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
